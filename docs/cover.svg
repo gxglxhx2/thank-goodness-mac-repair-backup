@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 420" role="img" aria-label="Thank Goodness You're Here! macOS launch repair">
+<rect width="1120" height="420" rx="30" fill="#f7ecd2"/>
+<path d="M808 420V184l67-61 66 61v236m5 0V233l58-51 60 51v187m-324 0V271l31-32 32 32v149" fill="#d8b871"/>
+<path d="M824 420V202h101v218m38 0V246h84v174m-291 0V284h31v136" fill="#cf7658"/>
+<path d="M842 240h22v35h-22zm42 0h22v35h-22zm100 40h21v32h-21zm28 0h21v32h-21z" fill="#f7ecd2"/>
+<path d="M58 75h165" stroke="#ad4d3d" stroke-width="7" stroke-linecap="round"/>
+<g fill="#272c25" font-family="Georgia,serif" font-weight="bold">
+<text x="54" y="171" font-size="69">Thank Goodness</text>
+<text x="54" y="251" font-size="69">You’re Here!</text></g>
+<g fill="#57594b" font-family="sans-serif"><text x="58" y="311" font-size="30">macOS launch repair</text>
+<text x="59" y="360" font-size="18" letter-spacing="3">UNOFFICIAL PROJECT NOTES</text></g></svg>
