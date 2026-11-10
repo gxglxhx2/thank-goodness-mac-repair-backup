@@ -6,6 +6,16 @@
 
 An unofficial repair record for a specific macOS package that showed “is damaged and can’t be opened.” The repaired copy reached the interactive menu on an Apple silicon Mac. The menu and subtitle language was set to standard English.
 
+## 官方游戏截图 / Official gameplay screenshots
+
+![Barnsworth market outside Ron’s](https://thankgoodness-assets.panicfiles.com/tgyh-screenshot-01-market-outside-rons.png)
+
+![Tea Boi shop interior](https://thankgoodness-assets.panicfiles.com/tgyh-screenshot-02-tea-boi-interior.png)
+
+![Bish’s Fishes shop](https://thankgoodness-assets.panicfiles.com/tgyh-screenshot-08-bishes-fishes.png)
+
+截图来源 / Screenshot credit: Coal Supper and Panic, [official press kit](https://thankgoodness.game/presskit/#screenshots).
+
 ## 故障原因 / What failed
 
 The original disk image passed its checksum. macOS rejected the outer third-party launcher because its files did not match the signature. The nested game passed signature and notarization checks. A direct launch of the nested app reached the Unity splash screen and then exited after Steamworks requested a restart through Steam.
