@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 280" role="img" aria-label="Outer launcher repair workflow">
+<rect width="1120" height="280" rx="26" fill="#f6efe0"/>
+<g fill="#fffaf0" stroke="#b59264" stroke-width="2"><rect x="34" y="90" width="302" height="135" rx="14"/><rect x="408" y="90" width="302" height="135" rx="14"/><rect x="782" y="90" width="302" height="135" rx="14"/></g>
+<g fill="none" stroke="#9a4f3f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M349 158h44l-8-8m8 8-8 8"/><path d="M723 158h44l-8-8m8 8-8 8"/></g>
+<g font-family="sans-serif" fill="#282b23"><text x="34" y="55" font-size="26" font-weight="bold">From startup failure to an interactive menu</text>
+<g font-size="20" font-weight="bold"><text x="54" y="132">01  Verify both layers</text><text x="428" y="132">02  Repair a copy</text><text x="802" y="132">03  Test the launch</text></g>
+<g font-size="17"><text x="54" y="170">Outer signature failed.</text><text x="54" y="197">Inner game signature passed.</text><text x="428" y="170">Revise the launcher script.</text><text x="428" y="197">Apply a local signature.</text><text x="802" y="170">Reach the interactive menu.</text><text x="802" y="197">Select standard English.</text></g></g></svg>
